@@ -22,7 +22,7 @@ qu'est-ce que je nie, à quoi je tords le cou ? ». Pour Chiara Denti, la traduc
 travers des frontières à la fois linguistiques et culturelles ». En traduisant, comment montrer l'Autre
 tout en se faisant comprendre ? Face à cette difficulté centrale, le traducteur effectue des recherches
 poussées sur la langue source et la langue cible, sur leur fonctionnement et leur histoire ; il fait des
-choix singuliers. Ce « coffre à outils »6 étant caché au lecteur, on fait face à une invisibilisation du
+choix singuliers. Ce « coffre à outils » étant caché au lecteur, on fait face à une invisibilisation du
 traducteur. En effet, ce qui est donné au lecteur est souvent une version imprimée définitive. Corine
 Atlan, traductrice du japonais, explique que l'édition papier finale la déçoit constamment car c'est
 le cheminement de pensée japonais qu'elle aurait aimé partager.
@@ -34,4 +34,4 @@ Comment montrer au lecteur ce processus de traduction ? Ici, le numérique peut 
 incroyable. En effet, on imagine mal une édition papier qui serait remplie de notes sur la traduction.
 Jean-Yves Masson met le doigt sur la difficulté de l'édition « classique » pour cette notion : « Le texte est imprimé sans appel de notes, parce qu’il y en aurait partout ». De plus, la traduction
 transparente ne renvoie-t-elle pas à une notion de mouvance incompatible avec un livre imprimé figeant le texte ?
-On touche, ici, à une question pouvant être posée au numérique et non au papier ; explorons cela à travers ce carnet de traduction, traduisons transparent.
+On touche, ici, à une question pouvant être posée au numérique et non au papier. Explorons cela à travers ce carnet de traduction, traduisons transparent.
