@@ -34,4 +34,5 @@ Comment montrer au lecteur ce processus de traduction ? Ici, le numérique peut 
 incroyable. En effet, on imagine mal une édition papier qui serait remplie de notes sur la traduction.
 Jean-Yves Masson met le doigt sur la difficulté de l'édition « classique » pour cette notion : « Le texte est imprimé sans appel de notes, parce qu’il y en aurait partout ». De plus, la traduction
 transparente ne renvoie-t-elle pas à une notion de mouvance incompatible avec un livre imprimé figeant le texte ?
-On touche, ici, à une question pouvant être posée au numérique et non au papier. Explorons cela à travers ce carnet de traduction, traduisons transparent.
+On touche, ici, à une question pouvant être posée au numérique et non au papier./
+Explorons cela à travers ce carnet de traduction qui propose d'entrer dans l'atelier du traducteur en découvrant ses notes. Cet espace est un lieu de documentation de la traduction pour comprendre l'acte de traduire, pour le questionner, pour l'expérimenter ensemble : il s'agit de traduire transparent.
