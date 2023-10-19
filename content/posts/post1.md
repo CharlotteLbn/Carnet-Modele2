@@ -8,8 +8,8 @@ theme: "Fouiller les traductions d'Edgar Allan Poe"
 
 <!--la métadonnée ajoutée "theme" peut être ajoutée à d'autres fichiers du dossier posts si voulu-->
 
-{{< blockquote author="Alan Turing, *Je suis intelligent*" >}}
-La science ne nous dit pas où nous allons - c’est le rôle de l’art - ; elle nous dit où nous sommes.
+{{< blockquote author="Umberto Eco, *Dire quasi la stessa cosa*" >}}
+Dire presque la même chose.
 {{< /blockquote >}}
 
 <!--cette image se trouve à la source des contenus-->
