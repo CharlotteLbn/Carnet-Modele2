@@ -20,7 +20,7 @@ quality = 99
 # ajout de la métadonnée "licence" qui va concerner l'ensemble du site
 licence = "CC-NC-BY-SA"
 # fin de l'ajout
-description = "description 2"
+description = "Traduire Transparent"
 homeMetaContent = ""
 footer = "Texte du footer"
 dateFormat = "Jan 2, 2006"
