@@ -4,7 +4,7 @@ Corinne Atlan
 {{< /expandable >}}
 
 {{< expandable label="Éditeur" level="2" >}}
-Éditions La conttre allée
+Éditions La contre allée
 {{< /expandable >}}
 
 {{< expandable label="Iconographie" level="2" >}}
