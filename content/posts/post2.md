@@ -13,7 +13,7 @@ J'ai pris la contre-allée.
 
 Description : Contrebande fait entendre la parole d’un traducteur ou d’une traductrice, un parcours, une réflexion, le bruit de la traduction.
 
-Première publication dans la collection : *Entre les rives* de Diane Meur./
+Première publication dans la collection : *Entre les rives* de Diane Meur.  
 Le mot de la traductrice : 
 > En matière de traduction, on peut légitimement s’inquiéter de ce que deviendraient les cultures humaines et la pensée humaine, le jour où tout échange inter-linguistique serait confié à une intelligence artificielle. Il s’ensuivrait un cloisonnement et un repli sans précédent dans l’histoire, 
 une histoire qui, aussi loin que remonte la mémoire écrite, est faite de migrations d’idées, d’usages et d’hommes, de fécondation du même par l’autre, de transferts, 
