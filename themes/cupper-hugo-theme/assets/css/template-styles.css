@@ -160,7 +160,7 @@ code {
     background: #111;
 }
 .cmd code {
-    color: #fefefe;
+    color: #171515;
     white-space: pre-wrap;
 }
 .cmd code::before {
