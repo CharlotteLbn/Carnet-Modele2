@@ -35,4 +35,6 @@ Il y disait qu’au théâtre il n’y a rien de plus facile que de deviner dans
 ou Georg ou Györgi, on sait où on est et on part pour le voyage. Même chose dans Tchékhov : les Macha, les Olga et les Tatiana, dits platement à la française m’arrachent les oreilles. 
 Pourquoi pas Mâcha avec l’accent chantant sur la première syllabe ? Oui, le reste du texte est en français, mais l’ensemble prendra une couleur sensible particulière.
 
-*Extrait de : Vincent Jean-Pierre. La traduction sous toutes ses formes. In: Équivalences, 44e année-n°1-2, 2017. La traduction théâtrale. pp. 23-26.*
+{{< note >}}
+Extrait de : Vincent Jean-Pierre. La traduction sous toutes ses formes. In: Équivalences, 44e année-n°1-2, 2017. La traduction théâtrale. pp. 23-26.
+{{< /note >}}
