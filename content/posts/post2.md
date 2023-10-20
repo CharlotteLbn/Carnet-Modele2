@@ -6,6 +6,11 @@ toc: true
 theme: "La collection Contrebande des éditions françaises La contre allée"
 ---
 
+{{< blockquote author="Alain Bashung, Aucun express" >}}
+Délaissant les grands axes  
+J'ai pris la contre-allée.
+{{< /blockquote >}}
+
 Description : Contrebande fait entendre la parole d’un traducteur ou d’une traductrice, un parcours, une réflexion, le bruit de la traduction.
 
 Première publication dans la collection : *Entre les rives* de Diane Meur./
