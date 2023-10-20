@@ -6,7 +6,3 @@ Corinne Atlan
 {{< expandable label="Éditeur" level="2" >}}
 Éditions La contre allée
 {{< /expandable >}}
-
-{{< expandable label="Iconographie" level="2" >}}
-Taras Dubov, Vecteezy
-{{</* /expandable >}}
